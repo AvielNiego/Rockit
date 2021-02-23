@@ -1,0 +1,6 @@
+#include "il2cpp-config.h"
+#include "/media/aviel/Elements/unreal_installs/2020.1.17f1/Editor/Data/il2cpp/libil2cpp/vm-utils/BlobReader.cpp"
+#include "/media/aviel/Elements/unreal_installs/2020.1.17f1/Editor/Data/il2cpp/libil2cpp/vm-utils/Debugger.cpp"
+#include "/media/aviel/Elements/unreal_installs/2020.1.17f1/Editor/Data/il2cpp/libil2cpp/vm-utils/NativeDelegateMethodCache.cpp"
+#include "/media/aviel/Elements/unreal_installs/2020.1.17f1/Editor/Data/il2cpp/libil2cpp/vm-utils/NativeSymbol.cpp"
+#include "/media/aviel/Elements/unreal_installs/2020.1.17f1/Editor/Data/il2cpp/libil2cpp/vm-utils/VmStringUtils.cpp"
