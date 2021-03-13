@@ -1,6 +1,6 @@
 # Rockit
 
-My implementation of the game from the course [Complete C# Unity Game Developer 3D](https://www.udemy.com/course/unitycourse2/)
+My implementation of the game ***Project Boost*** from the course [Complete C# Unity Game Developer 3D](https://www.udemy.com/course/unitycourse2/)
 
 [Play it now](https://simmer.io/@AvielN/rockit)
 
